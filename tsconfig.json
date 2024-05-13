@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "target": "ES6",
+      "outDir": "app",
+      "rootDir": "ts"
+    },
+    "include": [
+      "ts/**/*"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }

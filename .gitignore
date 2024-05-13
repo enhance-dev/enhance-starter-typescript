@@ -1,0 +1,8 @@
+# .gitignore for this template project
+# template.gitignore should be used by generated projects
+node_modules/
+manifest.json
+package-lock.json
+.DS_Store
+.enhance/
+public/static.json
