@@ -12,7 +12,6 @@ type Todo = {
 export const get: EnhanceApiFn = async function (
   request: EnhanceApiReq,
 ): Promise<EnhanceApiRes> {
-  console.log(`Handling ${request.path}...`);
 
   const todos: Todo[] = [
     { title: "todo 1", completed: false },
