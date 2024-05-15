@@ -11,7 +11,7 @@
     "dependencies": {
         "@enhance/arc-plugin-enhance": "^11.0.1",
         "@enhance/arc-plugin-styles": "^5.0.6",
-        "@enhance/plugin-typescript": "^0.2.1",
+        "@enhance/plugin-typescript": "^0.2.2",
         "@enhance/styles-cribsheet": "^0.0.11"
     },
     "devDependencies": {
